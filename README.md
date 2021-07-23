@@ -1,3 +1,8 @@
+msdn azure ad example    https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-v2-aspnet-webapp
+
+working github example with logout
+https://github.com/Azure-Samples/active-directory-dotnet-web-single-sign-out
+
 ---
 page_type: sample
 languages:
